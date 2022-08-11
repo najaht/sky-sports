@@ -1,0 +1,245 @@
+body{background-color: lightgray;
+  box-sizing: border-box;
+}
+ #main{
+  display: flex;
+ }
+ #sky{
+  background-color: darkblue;
+  width: 25%;
+  height: 100px;
+  box-sizing: border-box;
+  
+  
+ }
+ #sports{
+  background-color: red;
+  width: 75%;
+  height: 100px;
+  display: flex;
+ }
+ #head1{
+  margin-left: 310px;
+  color: white;
+  margin-top: 50px;
+  font-size: 40px;
+  margin-top: 30px;
+  
+ }
+ #head2{
+  margin-right: 500px;
+  color: white;
+  margin-top: 25px;
+  font-size: 50px;
+  position: relative;
+ }
+ ul{
+  display: flex;
+  list-style: none;
+  margin-top: 1px;
+  }
+  li{
+    margin-left: 30px;
+    margin-top: 10px;
+    
+   }
+    li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+
+    
+   }
+   #list{
+    background-color: white;
+    height: 50px;
+    padding-left: 245px;
+  }
+  #head3{
+    margin-top: 50px;
+    color: white;
+    font-size: 17px;
+    margin-left: -150px;
+  }
+  button {
+    color: white;
+    margin-left: 150px;
+    margin-top: 12px;
+    background-color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+  }
+  button a{
+    color: white;
+    text-decoration: none;
+   
+  }
+  #image{
+    width: 700px;
+  
+  }
+#body{
+  display: flex;
+  background-color: white;
+  margin-top: 30px;
+  width: 1000px;
+  height: 400px;
+  margin-left: 250px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: whitesmoke;
+  
+  
+}
+#word{
+  margin-left: 50px;color: blue;
+}
+span{
+  color: dimgrey;
+  font-size: 35px;
+  
+  
+
+}
+#body2{
+  font-size: 17px;
+  
+}
+#image1{
+  width: 300px;
+}
+
+#skysports{
+background-color: white;
+margin-top: 30px;
+width: 305px;
+height: 290px;
+margin-left: 250px;
+border-style: solid;
+border-width: 5px;
+border-color: whitesmoke;
+}
+#football{
+  color: blue;
+}
+#passion{
+  color:dimgrey;
+  font-size: 20px;
+}
+#grey{
+  display: flex;
+}
+#kkk{
+  display: flex;
+}
+#image2{
+  width: 300px;
+}
+#naj{
+  background-color: white;
+  margin-top: 30px;
+  width: 305px;
+  height: 290px;
+  margin-left: 20px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: whitesmoke;
+}
+#ball{
+  color: blue;
+}
+#sam{
+  color: dimgrey;
+  font-size: 20px;
+}
+#image3{
+  width: 300px;
+}
+#ok{
+  background-color: white;
+  margin-left: 20px;
+  width: 305px;
+  height: 290px;
+  margin-top: 30px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: whitesmoke;
+}
+#golf{
+  color: blue;
+}
+#cup{
+  font-size: 20px;
+}
+#hall{
+  display: flex;
+}
+#onee{
+width: 300px;
+}
+#uu{
+  display: flex;
+}
+#picture1{
+  width: 300px;
+}
+#tams{
+  margin-top: 30px;
+  background-color: white;
+  margin-left: 250px;
+  width: 305px;
+  height:290px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: whitesmoke;
+
+}
+#you{
+  color: blue;
+}
+#me{
+  font-size: 20px;
+}
+#hello{
+  width: 300px;
+}
+#hi{
+  margin-top: 30px;
+  margin-left: 20px;
+  background-color: white;
+  width: 305px;
+  height: 290px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: whitesmoke;
+}
+#time{
+  color: blue;
+}
+#valid{
+  font-size: 20px;
+}
+#moo{
+  width: 300px;
+}
+#scarf{
+  color: blue;
+}
+#fool{
+  margin-top: 30px;
+  margin-left: 20px;
+  background-color: white;
+  width: 305px;
+height: 290px;
+border-style: solid;
+border-width: 5px;
+border-color: whitesmoke;
+}
+#house{
+  font-size: 20px;
+}
+a:hover{
+  text-decoration: underline;
+  color: blueviolet;
+}
