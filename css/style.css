@@ -1,4 +1,4 @@
-body{background-color: lightgray;
+body{background-color: orange;
   box-sizing: border-box;
 }
  #main{
@@ -242,4 +242,20 @@ border-color: whitesmoke;
 a:hover{
   text-decoration: underline;
   color: blueviolet;
+}
+#fun{
+  color: black;
+  margin-top: 52px;
+  position: absolute;
+  margin-left: 850px;
+  
+}
+input{
+  position: relative;
+}
+#time2{
+  position: absolute;
+  margin-top: 52px;
+  margin-left: 600px;
+  color: white;
 }
